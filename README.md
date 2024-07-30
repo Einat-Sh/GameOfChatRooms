@@ -2,7 +2,7 @@
 
 This is a simple .NET Windows application in C# for a chatroom made with C#. 
 
-UI framework used is Windows Presentation Foundation (WPF).
+UI framework used: Windows Presentation Foundation (WPF).
 
 The project is provided with a .sln file for easy access.
 
